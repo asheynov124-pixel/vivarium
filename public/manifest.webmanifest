@@ -1,0 +1,19 @@
+{
+  "name": "Vivarium",
+  "short_name": "Vivarium",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0e1412",
+  "theme_color": "#0e1412",
+  "description": "An evolution dish with no fitness function. Organisms live, die, and reproduce on their own.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

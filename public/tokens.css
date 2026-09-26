@@ -1,0 +1,12 @@
+:root{
+  --color-ink:#0e1412;
+  --color-parchment:#e7f0e6;
+  --color-copper:#e0a45a;
+  --color-life:#7dcea0;
+  --color-moss:#8eae96;
+  --color-panel:#17211c;
+  --color-panel-2:#1e2b26;
+  --color-line:#31443b;
+  --font-display:"Fraunces", Georgia, serif;
+  --font-sans:"Outfit", system-ui, sans-serif;
+}

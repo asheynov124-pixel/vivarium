@@ -1,0 +1,40 @@
+{
+  "name": "Vivarium",
+  "shortName": "Vivarium",
+  "tagline": "A living dish",
+  "description": "An evolution dish with no fitness function. Organisms live, die, and reproduce on their own.",
+  "og": {
+    "type": "x:game",
+    "title": "Vivarium",
+    "image": "/og.jpg",
+    "imageWidth": 1200,
+    "imageHeight": 630,
+    "xGameImage": "/x-banner.jpg",
+    "xGameImageWidth": 1200,
+    "xGameImageHeight": 264
+  },
+  "themeColor": "#0e1412",
+  "backgroundColor": "#0e1412",
+  "fonts": {
+    "display": "Fraunces",
+    "ui": "Outfit"
+  },
+  "tokens": {
+    "ink": "#0e1412",
+    "parchment": "#e7f0e6",
+    "copper": "#e0a45a",
+    "life": "#7dcea0",
+    "moss": "#8eae96"
+  },
+  "chrome": {
+    "panel": "#17211c",
+    "panel2": "#1e2b26",
+    "line": "#31443b"
+  },
+  "voice": {
+    "nouns": ["dish", "body", "kind", "strain", "year", "season", "fossil", "field note"],
+    "banned": ["score", "XP", "level", "win", "player", "fitness as a number"]
+  },
+  "houseStrain": "Emergentia cooperans",
+  "notebook": "Field Notebook No. 17"
+}
